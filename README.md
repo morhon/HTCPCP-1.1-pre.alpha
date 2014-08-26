@@ -7,6 +7,6 @@ ___
 ####Current contents:
 
 1.  WordPress snippets, tricks, hacks, walkarounds;
-2.  Same as above, although `< $serious` and `! foreach ($moldy_CEO as $current_client); `;
+2.  Same as above, although `< $serious` and `! foreach ($moldy_CEO as $current_client); `
  
 ___
